@@ -384,3 +384,18 @@ img {
     cursor: pointer;
     border: 0px;
 }
+
+.footer {
+    height: 200px;
+    background: #2c70ff;
+    color: #122ab2;
+
+    display: flex;
+    align-items: center;
+}
+
+.footer p {
+    flex: 1;
+    text-align: center;
+    font-size: 2.25em;
+}
